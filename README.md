@@ -4,21 +4,13 @@ In this activity the Acceptance Criteria was fulfilled succesfully. The purpose 
 The results are shown in the next screen shorts.  
 
 #Password generated 
-
-
-
+![password1](https://user-images.githubusercontent.com/87739510/143808049-a46b8fc0-642d-42cd-996c-5f873d426f96.png)
 
 #Error massage when the number of characters is no inside the range. 
-
-
+![password2](https://user-images.githubusercontent.com/87739510/143808053-45869b7a-66a3-44f3-b6dc-4f170efdd13a.png)
 
 #Error message when the user doesn’t choose a criteria.  
-
-
-
-
-
-
+![password3](https://user-images.githubusercontent.com/87739510/143808056-25c991b1-8698-4232-aabc-802c92e17229.png)
 
 ## User Story
 AS AN employee with access to sensitive data
