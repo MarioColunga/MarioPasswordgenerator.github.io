@@ -1,15 +1,18 @@
-# 03 JavaScript: Password Generator
+# Password Generator
 
 In this activity the Acceptance Criteria was fulfilled succesfully. The purpose was to make a password generator through the use of prompts and different criteiria.   
 The results are shown in the next screen shorts.  
 
+#Password generated 
 
 
 
 
+#Error massage when the number of characters is no inside the range. 
 
 
 
+#Error message when the user doesn’t choose a criteria.  
 
 
 
